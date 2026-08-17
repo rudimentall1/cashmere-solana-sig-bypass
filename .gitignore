@@ -1,0 +1,5 @@
+node_modules/
+*.log
+target/
+backend-signer.json
+.DS_Store
