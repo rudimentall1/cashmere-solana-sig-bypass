@@ -8,7 +8,7 @@ outside direct contact with the team.
 
 - [x] Confirmed via code read (utils/ed25519.rs -> pre_transfer)
 - [x] PoC written, not yet run against a live devnet deploy
-- [ ] Emailed to the team
+- [x] Emailed to the team (2026-08-16, hello@cashmere.exchange + cashmereprotocol@gmail.com)
 - [ ] Response
 - [ ] Fix confirmed on mainnet
 - [ ] Decide on public writeup
