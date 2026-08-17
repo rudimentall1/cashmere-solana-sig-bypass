@@ -31,5 +31,5 @@ Second thing, smaller, medium severity at most: I compared what actually gets si
 
 That's everything. Not looking for a payout here — I know your Solana side isn't carrying much value right now and I don't think you have a formal bounty program set up, so I'm not expecting one. Would just appreciate knowing it landed somewhere and got looked at, and a mention if you ever write anything public about it. Let me know if you want more detail on either one.
 
-[name]
+Rinat
 x.com/overline2024
